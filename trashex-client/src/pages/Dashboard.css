@@ -1,0 +1,25 @@
+.circle.small {
+  border: 6px solid black;
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  z-index: 86;
+}
+
+.circle h1 {
+  text-align: center;
+  font-family: Times, serif;
+  font-weight: 800;
+  font-size: 38px;
+  color: #222222;
+  text-decoration: none;
+  display: block;
+  letter-spacing: -0.02em;
+  word-spacing: -0.02em;
+  line-height: 1;
+  margin-top: 32px;
+}
+
+.badge {
+  cursor: pointer;
+}

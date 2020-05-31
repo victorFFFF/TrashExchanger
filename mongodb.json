@@ -1,0 +1,26 @@
+[
+	{
+
+
+"Users":
+	[
+		{	"Google Authentication id": "73874837538",
+			"User name": "John Doe",
+			"User Level": "Recycle God",
+			"Points": "1000",
+			"Recycle Request": {"Recycle Type": [ {"id": "001", "Recycle Material": "Aluminum", "Recycle form": "soda can", "Number": "10"}]}
+				
+			
+				
+		},
+		{	"Google Authentication id": "13318378479",
+			"User name": "Mary Jane",
+			"User Level": "Recycle newbie",
+			"Points": "0",
+			"Recycle Request": {"Recycle Type": [{"id": "001", "Recycle Material": "Plastic", "Recycle form": "water bottle", "Number": "6"}]}
+				
+		}
+	]
+}
+
+]
